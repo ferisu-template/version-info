@@ -1,7 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://example.com/your-app.apk"
-  message: "Ada yang baru ini"
+  "version": "1.1.0",
+  "url": "https://example.com/download",
+  "message": "Ada yang baru ini"
 }
 
-  
