@@ -1,12 +1,20 @@
 {
-  "version": "1.2.0",
-  "urls": {
-    "armeabi-v7a": "https://example.com/app_v1.2.0_armeabi-v7a.apk",
-    "arm64-v8a": "https://example.com/app_v1.2.0_arm64-v8a.apk",
-    "x86": "https://example.com/app_v1.2.0_x86.apk",
-    "x86_64": "https://github.com/ferisu-template/version-info/releases/download/music-player/app-x86_64-release.apk"
-  },
-  "message": "Ada yang baru ini"
+  "categories": [
+    {
+      "name": "Sport",
+      "url": "http://pro.xviptv.com:25443/get.php?username=yourusername&password=yourpassword&type=m3u_plus&output=m3u8&category=sport"
+    },
+    {
+      "name": "Lokal",
+      "url": "http://pro.xviptv.com:25443/get.php?username=yourusername&password=yourpassword&type=m3u_plus&output=m3u8&category=lokal"
+    },
+    {
+      "name": "Music",
+      "url": "http://pro.xviptv.com:25443/get.php?username=yourusername&password=yourpassword&type=m3u_plus&output=m3u8&category=music"
+    },
+    {
+      "name": "Anime",
+      "url": "http://pro.xviptv.com:25443/get.php?username=yourusername&password=yourpassword&type=m3u_plus&output=m3u8&category=anime"
+    }
+  ]
 }
-
-
