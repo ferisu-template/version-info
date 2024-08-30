@@ -10,7 +10,7 @@
         },
         {
             "name": "Music",
-            "url": "http://pro.xviptv.com:25443/get.php?username=yourusername&password=yourpassword&type=m3u_plus&output=m3u8&category=music"
+            "url": "https://iptv-org.github.io/iptv/categories/music.m3u"
         },
         {
             "name": "Anime",
