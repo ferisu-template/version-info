@@ -23,10 +23,6 @@
         {
             "name": "Movie",
             "url": "https://iptv-org.github.io/iptv/categories/movies.m3u"
-        },
-        {
-            "name": "Thailand",
-            "url": "http://pro.xviptv.com/get.php?username=1775722386&password=8XM48KVNZT&type=m3u_plus"
         }
     ]
 }
