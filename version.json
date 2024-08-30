@@ -23,6 +23,10 @@
         {
             "name": "Movie",
             "url": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+            "name": "Disney+",
+            "url": "https://ferisu-template.github.io/version-info/DISNEY+.m3u"
         }
     ]
 }
